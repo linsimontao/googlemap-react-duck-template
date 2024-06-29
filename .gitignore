@@ -24,3 +24,10 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+
+/duck/node_modules
+/duck/.env
+
+/map/node_modules
+/map/.env
